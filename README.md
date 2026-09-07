@@ -62,7 +62,7 @@ Cross-compiled on Linux using **MinGW-w64**.
 
 ## Screenshots
 
-<img src="https://www.imgshare.cc/api/image/proxy?id=vpcwqt91&token=eyJpbWFnZUlkIjoidnBjd3F0OTEiLCJ0aW1lc3RhbXAiOjE3ODg4MTQxNDkxNjQsInNpZ25hdHVyZSI6IjgxMTlkZjY5YmE2ZTc3MDY4ZTFkZDgxYmU0Mzk3M2E1NmZhNTZjYjBkZDk3YjgxNDk2NjdkMDlhZTA2ZTQ4YWYifQ&v=1788814144451"></img.png>
+<img src="https://www.imgshare.cc/api/image/proxy?id=vpcwqt91&token=eyJpbWFnZUlkIjoidnBjd3F0OTEiLCJ0aW1lc3RhbXAiOjE3ODg4MTQxNDkxNjQsInNpZ25hdHVyZSI6IjgxMTlkZjY5YmE2ZTc3MDY4ZTFkZDgxYmU0Mzk3M2E1NmZhNTZjYjBkZDk3YjgxNDk2NjdkMDlhZTA2ZTQ4YWYifQ&v=1788814144451">/img.png>
 ## License
 
 This project is open source and available under the MIT License.
