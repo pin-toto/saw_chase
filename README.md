@@ -62,7 +62,7 @@ Cross-compiled on Linux using **MinGW-w64**.
 
 ## Screenshots
 
-<img src="https://hotimg.com/f/robE33U1.png"></img.png>
+<img src=""></img.png>
 ## License
 
 This project is open source and available under the MIT License.
