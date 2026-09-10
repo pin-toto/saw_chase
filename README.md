@@ -60,9 +60,25 @@ Cross-compiled on Linux using **MinGW-w64**.
 * SDL2_image
 * C++17 compatible compiler
 
-## Screenshots
+## how to run
 
-<img src="https://www.imgshare.cc/api/image/proxy?id=vpcwqt91&token=eyJpbWFnZUlkIjoidnBjd3F0OTEiLCJ0aW1lc3RhbXAiOjE3ODg4MTQxNDkxNjQsInNpZ25hdHVyZSI6IjgxMTlkZjY5YmE2ZTc3MDY4ZTFkZDgxYmU0Mzk3M2E1NmZhNTZjYjBkZDk3YjgxNDk2NjdkMDlhZTA2ZTQ4YWYifQ&v=1788814144451">
+in linux:
+
+
+```bash
+git clone https://github.com/pin-toto/saw_chase.git
+cd saw_chase
+g++ main.cpp -O3 -o SawChase $(sdl2-config --cflags --libs) -lSDL2_image
+./SawChase
+```
+in win:
+```cmd
+git clone https://github.com/pin-toto/saw_chase.git
+cd saw_chase
+g++ main.cpp -o SawChase.exe -lSDL2main -lSDL2 -lSDL2_image
+.\SawChase.exe
+
+```
 
 ---
 ## License
